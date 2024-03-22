@@ -1,4 +1,9 @@
 .userButton{
-    border: 2px solid goldenrod;
+    border: 2px solid rgb(240, 204, 113);
     background-color: rgb(240, 228, 217);
+}
+.userButtons{
+    border: 2px solid rgb(145, 214, 244);
+    background-color: rgb(74, 219, 233);
+    margin-left: 15px;
 }

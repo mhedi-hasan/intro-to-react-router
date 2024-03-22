@@ -1,3 +1,8 @@
 .postButtons{
     background-color: burlywood;
 }
+.postButton{
+    background-color: rgb(205, 245, 132);
+    margin-left: 15px;
+    outline: none;
+}
